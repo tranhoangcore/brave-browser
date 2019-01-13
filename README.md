@@ -7,5 +7,5 @@ Brave is a free and open-source web browser developed by Brave Software Inc. bas
 As of 2018, Brave supports Windows, macOS, Linux, Android, and iOS. The current version features 20 search engines by default, including their partner DuckDuckGo.[7]
     
 ## Build instructions
-'makepkg -si'
+Make packge:'makepkg -si'
 
